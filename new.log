@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2017.1.8)  19 FEB 2018 15:52
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2017.1.8)  19 FEB 2018 16:34
 entering extended mode
  %&-line parsing enabled.
 **new.tex
@@ -232,32 +232,28 @@ LaTeX Font Info:    ... okay on input line 9.
 \MPnumerator=\count116
 \everyMPtoPDFconversion=\toks38
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 61.
+LaTeX Font Info:    Try loading font information for U+msa on input line 63.
  (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 61.
+LaTeX Font Info:    Try loading font information for U+msb on input line 63.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 61.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 63.
 
 (/usr/share/texmf-texlive/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
 
 LaTeX Warning: Citation `arnol πd2012geometrical' on page \thepage  undefined o
-n input line 80.
+n input line 82.
 
 <images/image1.jpg, id=1, 363.3575pt x 243.91125pt>
 File: images/image1.jpg Graphic file (type jpg)
  <use images/image1.jpg>
-Overfull \hbox (12.00682pt too wide) in paragraph at lines 90--91
+Overfull \hbox (12.00682pt too wide) in paragraph at lines 92--93
 [][] 
  []
 
@@ -273,94 +269,94 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 
 LaTeX Warning: Citation `butcher1987numerical' on page \thepage  undefined on i
-nput line 102.
+nput line 104.
 
 
 LaTeX Warning: Citation `economou1983green' on page \thepage  undefined on inpu
-t line 102.
+t line 104.
 
 
 LaTeX Warning: Citation `fassas2002hematopoietic' on page \thepage  undefined o
-n input line 102.
+n input line 104.
 
 
-Overfull \hbox (2.35294pt too wide) in paragraph at lines 102--103
+Overfull \hbox (2.35294pt too wide) in paragraph at lines 104--105
 \T1/aer/m/n/9 works on video se-lec-tion in a lec-ture broad-cast and video str
 eam-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
 
 LaTeX Warning: Citation `piron1976foundations' on page \thepage  undefined on i
-nput line 115.
+nput line 117.
 
 
 LaTeX Warning: Citation `talay1994numerical' on page \thepage  undefined on inp
-ut line 115.
+ut line 117.
 
 
 LaTeX Warning: Citation `coddington1955theory' on page \thepage  undefined on i
-nput line 117.
+nput line 119.
 
 
 LaTeX Warning: Citation `shampine1975computer' on page \thepage  undefined on i
-nput line 117.
+nput line 119.
 
 
 LaTeX Warning: Citation `carter2007ceramic' on page \thepage  undefined on inpu
-t line 119.
+t line 121.
 
 
 LaTeX Warning: Citation `frakes1992information' on page \thepage  undefined on 
-input line 119.
+input line 121.
 
 
 LaTeX Warning: Citation `clayton1987materials' on page \thepage  undefined on i
-nput line 126.
+nput line 128.
 
 
 LaTeX Warning: Citation `paddle2006effect' on page \thepage  undefined on input
- line 127.
+ line 129.
 
 
 LaTeX Warning: Citation `wyszecki1982color' on page \thepage  undefined on inpu
-t line 128.
+t line 130.
 
 
-Overfull \hbox (14.22487pt too wide) in paragraph at lines 124--135
+Overfull \hbox (14.22487pt too wide) in paragraph at lines 126--137
  [][] 
  []
 
 
 LaTeX Warning: Citation `paddle2006effect' on page \thepage  undefined on input
- line 137.
+ line 139.
 
 [2 <./images/image1.jpg>]
 
 LaTeX Warning: Citation `economou1983green' on page \thepage  undefined on inpu
-t line 139.
+t line 141.
 
 
 LaTeX Warning: Citation `wyszecki1982color' on page \thepage  undefined on inpu
-t line 139.
+t line 141.
 
 
 LaTeX Warning: Citation `piron1976foundations' on page \thepage  undefined on i
-nput line 154.
+nput line 156.
 
 <images/image2.jpg, id=17, 429.605pt x 279.0425pt>
 File: images/image2.jpg Graphic file (type jpg)
  <use images/image2.jpg>
-Overfull \hbox (12.00557pt too wide) in paragraph at lines 156--157
+Overfull \hbox (12.00557pt too wide) in paragraph at lines 158--159
 [][] 
  []
 
 
-Overfull \hbox (7.16777pt too wide) in paragraph at lines 154--160
+Overfull \hbox (7.16777pt too wide) in paragraph at lines 156--162
 \T1/aer/m/n/9 sharp-ness,contrast,illumination,and block-i-ness(due to video
  []
 
@@ -368,23 +364,23 @@ Overfull \hbox (7.16777pt too wide) in paragraph at lines 154--160
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (1.58656pt too wide) in paragraph at lines 162--163
+Overfull \hbox (1.58656pt too wide) in paragraph at lines 164--165
 \T1/aer/m/n/9 from same per-spec-tive, mo-bile users gen-er-ally shoot videos
  []
 
 [3 <./images/image2.jpg>]
 
 LaTeX Warning: Citation `frakes1992information' on page \thepage  undefined on 
-input line 188.
+input line 190.
 
 
-Overfull \hbox (12.32747pt too wide) detected at line 212
+Overfull \hbox (12.32747pt too wide) detected at line 214
 \OML/cmm/m/it/9 I[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 x[]; y[]\OT1/cmr/m/n/9 ) = [
 ]
  []
 
 
-Overfull \hbox (28.1377pt too wide) in paragraph at lines 215--216
+Overfull \hbox (28.1377pt too wide) in paragraph at lines 217--218
 \T1/aer/m/n/9 gions in the non-occluded area as well. These re-gions,however,ar
 e
  []
@@ -395,7 +391,7 @@ Missing character: There is no í in font cmr6!
 <images/image3.jpg, id=21, 395.4775pt x 362.35374pt>
 File: images/image3.jpg Graphic file (type jpg)
  <use images/image3.jpg>
-Overfull \hbox (12.00302pt too wide) in paragraph at lines 235--237
+Overfull \hbox (12.00302pt too wide) in paragraph at lines 237--239
 [][] 
  []
 
@@ -405,40 +401,40 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [4]
 
 LaTeX Warning: Citation `wyszecki1982color' on page \thepage  undefined on inpu
-t line 253.
+t line 255.
 
 <images/image4.jpg, id=32, 399.4925pt x 344.28625pt>
 File: images/image4.jpg Graphic file (type jpg)
  <use images/image4.jpg>
-Overfull \hbox (12.01332pt too wide) in paragraph at lines 256--257
+Overfull \hbox (12.01332pt too wide) in paragraph at lines 258--259
 [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    Try loading font information for T1+aess on input line 265.
+LaTeX Font Info:    Try loading font information for T1+aess on input line 267.
 
 (/usr/share/texmf-texlive/tex/latex/ae/t1aess.fd
 File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
 )
 LaTeX Font Info:    Font shape `T1/aess/m/it' in size <9> not available
-(Font)              Font shape `T1/aess/m/sl' tried instead on input line 265.
+(Font)              Font shape `T1/aess/m/sl' tried instead on input line 267.
  [5 <./images/image3.jpg> <./images/image4.jpg>]
 
 LaTeX Warning: Citation `carter2007ceramic' on page \thepage  undefined on inpu
-t line 319.
+t line 321.
 
 
 LaTeX Warning: Citation `cabrera2001path' on page \thepage  undefined on input 
-line 320.
+line 322.
 
 
 LaTeX Warning: Citation `wyszecki1982color' on page \thepage  undefined on inpu
-t line 332.
+t line 334.
 
 
-Overfull \hbox (32.70753pt too wide) detected at line 339
+Overfull \hbox (32.70753pt too wide) detected at line 341
 \OML/cmm/m/it/9 S[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 x[]; y[]\OT1/cmr/m/n/9 ) = [
 ]
  []
@@ -450,42 +446,42 @@ File: images/image5.jpg Graphic file (type jpg)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6]
-Overfull \hbox (4.50839pt too wide) in paragraph at lines 392--392
+Overfull \hbox (4.50839pt too wide) in paragraph at lines 394--394
 []\T1/aer/m/n/9 Recordings| 
  []
 
 
-Overfull \hbox (2.55443pt too wide) in paragraph at lines 392--392
+Overfull \hbox (2.55443pt too wide) in paragraph at lines 394--394
 []\T1/aer/m/n/9 Frame| 
  []
 
 
-Overfull \hbox (5.78748pt too wide) in paragraph at lines 392--393
+Overfull \hbox (5.78748pt too wide) in paragraph at lines 394--395
 []\T1/aer/m/n/9 Resolution| 
  []
 
 
-Overfull \hbox (4.14601pt too wide) in paragraph at lines 399--399
+Overfull \hbox (4.14601pt too wide) in paragraph at lines 401--401
 []\T1/aer/m/n/9 Singing| 
  []
 
 
-Overfull \hbox (3.43326pt too wide) in paragraph at lines 391--402
+Overfull \hbox (3.43326pt too wide) in paragraph at lines 393--404
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--418
+Underfull \hbox (badness 10000) in paragraph at lines 418--420
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--418
+Underfull \hbox (badness 10000) in paragraph at lines 418--420
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--418
+Underfull \hbox (badness 10000) in paragraph at lines 418--420
 
  []
 
@@ -495,10 +491,10 @@ File: images/image6.jpg Graphic file (type jpg)
 <use images/image6.jpg>
 
 LaTeX Warning: Citation `frakes1992information' on page \thepage  undefined on 
-input line 433.
+input line 435.
 
 
-Overfull \hbox (5.75792pt too wide) in paragraph at lines 443--452
+Overfull \hbox (5.75792pt too wide) in paragraph at lines 445--454
  [][] 
  []
 
@@ -517,15 +513,15 @@ Underfull \vbox (badness 3780) has occurred while \output is active []
  [9 <./images/image6.jpg> <./images/image8.jpg>]
 
 LaTeX Warning: Citation `economou1983green' on page \thepage  undefined on inpu
-t line 500.
+t line 502.
 
 
 LaTeX Warning: Citation `cabrera2001path' on page \thepage  undefined on input 
-line 500.
+line 502.
 
 
 LaTeX Warning: Citation `carter2007ceramic' on page \thepage  undefined on inpu
-t line 502.
+t line 504.
 
 No file new.bbl.
 [10
@@ -538,7 +534,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  2598 strings out of 493848
  30144 string characters out of 1152824
- 97070 words of memory out of 3000000
+ 97073 words of memory out of 3000000
  5816 multiletter control sequences out of 15000+50000
  70287 words of font info for 82 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
@@ -559,7 +555,7 @@ texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fon
 ts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/time
 s/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/s
 hare/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on new.pdf (10 pages, 602806 bytes).
+Output written on new.pdf (10 pages, 602812 bytes).
 PDF statistics:
  116 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
