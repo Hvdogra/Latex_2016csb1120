@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2017.1.8)  19 FEB 2018 14:55
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2017.1.8)  19 FEB 2018 15:52
 entering extended mode
  %&-line parsing enabled.
 **new.tex
@@ -200,8 +200,11 @@ File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 \BAfootskip=\dimen128
 \BA@dashbox=\box31
 \BA@ddashbox=\box32
+) (./new.aux
+
+LaTeX Warning: Label `fig:figure1' multiply defined.
+
 )
-No file new.aux.
 \openout1 = `new.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -216,7 +219,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+ (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count112
 \scratchdimen=\dimen129
@@ -249,15 +252,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
 
 LaTeX Warning: Citation `arnolʹd2012geometrical' on page \thepage  undefined o
-n input line 79.
-
-
-LaTeX Warning: Citation `arnolʹd2012geometrical' on page \thepage  undefined o
 n input line 80.
-
-
-LaTeX Warning: Reference `fig:figure1' on page \thepage  undefined on input lin
-e 86.
 
 <images/image1.jpg, id=1, 363.3575pt x 243.91125pt>
 File: images/image1.jpg Graphic file (type jpg)
@@ -267,16 +262,15 @@ Overfull \hbox (12.00682pt too wide) in paragraph at lines 90--91
  []
 
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-
-LaTeX Warning: Reference `fig:figure1' on page \thepage  undefined on input lin
-e 96.
-
 
 LaTeX Warning: Citation `butcher1987numerical' on page \thepage  undefined on i
 nput line 102.
@@ -341,11 +335,11 @@ Overfull \hbox (14.22487pt too wide) in paragraph at lines 124--135
  [][] 
  []
 
-[2 <./images/image1.jpg>]
 
 LaTeX Warning: Citation `paddle2006effect' on page \thepage  undefined on input
  line 137.
 
+[2 <./images/image1.jpg>]
 
 LaTeX Warning: Citation `economou1983green' on page \thepage  undefined on inpu
 t line 139.
@@ -538,16 +532,13 @@ No file new.bbl.
 
 ] (./new.aux)
 
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2596 strings out of 493848
- 30128 string characters out of 1152824
- 96975 words of memory out of 3000000
+ 2598 strings out of 493848
+ 30144 string characters out of 1152824
+ 97070 words of memory out of 3000000
  5816 multiletter control sequences out of 15000+50000
  70287 words of font info for 82 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
@@ -568,7 +559,7 @@ texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fon
 ts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/time
 s/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></usr/s
 hare/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on new.pdf (10 pages, 602954 bytes).
+Output written on new.pdf (10 pages, 602806 bytes).
 PDF statistics:
  116 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
